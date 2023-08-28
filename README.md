@@ -1,3 +1,4 @@
 # static-web-content
 
-- [General Design Info](../static-web-content/general_design_info/README.md)
+- [General Design Info](../static-web-content/general-design-info/README.md)
+- [Design Principles](../static-web-content/design_principles/README.md)
